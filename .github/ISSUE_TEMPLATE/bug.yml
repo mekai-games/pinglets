@@ -1,0 +1,26 @@
+name: Bug report
+description: Something in Pingster does not work as it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Pingster version
+      description: Settings tab, at the bottom.
+      placeholder: "0.1.0"
+  - type: input
+    id: system
+    attributes:
+      label: Computer and system
+      placeholder: "MacBook Air M2, macOS 26"
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else

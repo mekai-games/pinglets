@@ -1,0 +1,11 @@
+name: Idea
+description: A helper, a task, a crew member or anything that would make Pingster better
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What should Pingster do, and what small problem would it solve for you?
+    validations:
+      required: true
