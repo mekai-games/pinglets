@@ -43,7 +43,7 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 
 | | |
 |---|---|
-| **Focus missions** | 25 minutes of focus, a short break, repeat. Meanwhile your crew member goes on a mission and comes back with a souvenir: 20 to collect, something new every time. |
+| **Focus missions** | 25 minutes of focus, a short break, repeat. Meanwhile your crew member goes on a mission and comes back with a souvenir: 32 to collect, something new every time. |
 | **Healthy breaks** | Drink water, check your posture, rest your eyes, stand up. You choose how often. |
 | **Reminders** | "Call the dentist at 15:00", "Vitamins every day at 9". Once, every day, on weekdays or every week. |
 | **To-dos** | With a due time if you like. Late ones turn into glitches. |
