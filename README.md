@@ -1,13 +1,11 @@
 <p align="center">
-  <a href="https://pingster.mekaigames.com"><img src="assets/banner.gif" alt="Pingster: tiny pixel crew members walking on the Dock, one of them fighting a glitch" width="100%"></a>
+  <a href="https://mekaigames.com/pingster"><img src="assets/banner.gif" alt="Pingster: tiny pixel crew members walking on the Dock, one of them fighting a glitch" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://pingster.mekaigames.com"><img src="assets/btn-download.png" alt="Download Pingster for Mac (coming soon)" height="58"></a>
+  <a href="https://github.com/mekai-games/pingster/releases/latest/download/Pingster.dmg"><img src="assets/btn-download.png" alt="Download Pingster for Mac: 7-day free trial" height="58"></a>
   &nbsp;
-  <a href="https://pingster.mekaigames.com"><img src="assets/btn-appstore.png" alt="Pingster on the Mac App Store (coming soon)" height="58"></a>
-  &nbsp;
-  <a href="https://pingster.mekaigames.com"><img src="assets/btn-site.png" alt="Visit the Pingster website" height="58"></a>
+  <a href="https://mekaigames.com/pingster"><img src="assets/btn-site.png" alt="Visit the Pingster website" height="58"></a>
 </p>
 
 <p align="center">
@@ -17,8 +15,10 @@
 </p>
 
 <p align="center">
-  <img alt="macOS: coming soon" src="https://img.shields.io/badge/macOS-coming%20soon-2fd39a?style=flat-square&labelColor=1a1d2b">
-  <img alt="Windows: later" src="https://img.shields.io/badge/Windows-later-a6abd6?style=flat-square&labelColor=1a1d2b">
+  <img alt="macOS 11 or later" src="https://img.shields.io/badge/macOS-11%2B-2fd39a?style=flat-square&labelColor=1a1d2b">
+  <img alt="Apple silicon and Intel" src="https://img.shields.io/badge/Apple%20silicon%20%2B%20Intel-universal-cfd3ff?style=flat-square&labelColor=1a1d2b">
+  <img alt="6,99 € once, 7-day free trial" src="https://img.shields.io/badge/6%2C99%20%E2%82%AC%20once-7--day%20free%20trial-f2b33d?style=flat-square&labelColor=1a1d2b">
+  <img alt="Latest version" src="https://img.shields.io/github/v/release/mekai-games/pingster?style=flat-square&labelColor=1a1d2b&color=2fd39a&label=version">
   <img alt="No account, no ads, no tracking" src="https://img.shields.io/badge/no%20account%20%C2%B7%20no%20ads%20%C2%B7%20no%20tracking-f2b33d?style=flat-square&labelColor=1a1d2b">
 </p>
 
@@ -68,23 +68,24 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 
 | | |
 |---|---|
-| **Mac** | Coming soon, from [pingster.mekaigames.com](https://pingster.mekaigames.com) and the Mac App Store. |
-| **Windows** | Later. |
+| **Mac** | [Download the free trial](https://github.com/mekai-games/pingster/releases/latest/download/Pingster.dmg): everything works for 7 days. Then [get your license](https://mekaigames.com/pingster#buy) for 6,99 €, once. |
+| **Needs** | macOS 11 or later, Apple silicon or Intel. |
 
-Pingster lives in the menu bar: no Dock icon, no window in your way.
+Open the `.dmg`, drag Pingster into Applications, open it. It lives in the menu bar: no Dock icon, no window in your way.
+Every version is in [Releases](../../releases).
 
 ## Privacy
 
 Everything stays on your computer. No account, no ads, no tracking, nothing sent anywhere.
-Read the [privacy policy](https://pingster.mekaigames.com/privacy/).
+Read the [privacy policy](https://mekaigames.com/pingster/privacy).
 
 ## FAQ
 
 <details>
-<summary><b>Is it free?</b></summary>
+<summary><b>How much is it?</b></summary>
 <br>
-Pingster comes with 3 free crew members. The others join you as you level up, or you can get them right away
-from the shop.
+6,99 €, one payment, with free updates. Try everything free for 7 days first. All 22 crew members are included:
+Alien, Pilot and Medic from day one, the others join you as you level up. One license works on up to 3 Macs.
 </details>
 
 <details>
