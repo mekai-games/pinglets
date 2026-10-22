@@ -43,10 +43,21 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 
 | | |
 |---|---|
-| **Focus timer** | 25 minutes of focus, a short break, repeat. Your crew member keeps quiet meanwhile. |
+| **Focus missions** | 25 minutes of focus, a short break, repeat. Meanwhile your crew member goes on a mission and comes back with a souvenir: 20 to collect, something new every time. |
 | **Healthy breaks** | Drink water, check your posture, rest your eyes, stand up. You choose how often. |
-| **Reminders** | "Call the dentist at 15:00". A bubble and a notification, right on time. |
+| **Reminders** | "Call the dentist at 15:00", "Vitamins every day at 9". Once, every day, on weekdays or every week. |
 | **To-dos** | With a due time if you like. Late ones turn into glitches. |
+
+| **Today's orders** | Three small things a day, for bonus XP. Missing a day costs nothing. |
+
+### Out of your way
+
+| | |
+|---|---|
+| **Quiet mode** | Silence for an hour or until tomorrow. |
+| **Away from the computer?** | It notices, waits, and counts it as a break. |
+| **Full screen** | It steps aside for full-screen apps, games and presentations, and can stay out of screen sharing. |
+| **Light** | It uses about 3% of one CPU core while it stands on the Dock. |
 
 ### Little helpers
 
@@ -65,6 +76,11 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 <p align="center">
   <img src="assets/crew.png" alt="The 22 crew members of Pinglets" width="100%">
 </p>
+
+Each crew member has a character of its own (curious, brave, caring, cheeky…) with its favourite snacks and its own
+lines. Bring a friend along and two of them walk on your Dock. Halloween, winter, New Year, Yuri's Night and the
+Perseids each bring costumes for the glitches, something over the Dock and a souvenir of their own. English and
+Italian.
 
 ## Download
 
