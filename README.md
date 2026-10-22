@@ -5,18 +5,20 @@
 <p align="center">
   <a href="https://github.com/mekai-games/pingster/releases/latest/download/Pingster.dmg"><img src="assets/btn-download.png" alt="Download Pingster for Mac: 7-day free trial" height="58"></a>
   &nbsp;
+  <a href="https://github.com/mekai-games/pingster/releases/latest/download/Pingster-Setup.exe"><img src="assets/btn-windows.png" alt="Download Pingster for Windows: 7-day free trial" height="58"></a>
+  &nbsp;
   <a href="https://mekaigames.com/pingster"><img src="assets/btn-site.png" alt="Visit the Pingster website" height="58"></a>
 </p>
 
 <p align="center">
-  <b>A tiny pixel crew member that lives on your Dock.</b><br>
+  <b>A tiny pixel crew member that lives on your Dock or taskbar.</b><br>
   It reminds you to take breaks, keeps your to-dos and fixes small annoying things.<br>
   Give it a snack now and then.
 </p>
 
 <p align="center">
   <img alt="macOS 11 or later" src="https://img.shields.io/badge/macOS-11%2B-2fd39a?style=flat-square&labelColor=1a1d2b">
-  <img alt="Apple silicon and Intel" src="https://img.shields.io/badge/Apple%20silicon%20%2B%20Intel-universal-cfd3ff?style=flat-square&labelColor=1a1d2b">
+  <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-2fd39a?style=flat-square&labelColor=1a1d2b">
   <img alt="6,99 € once, 7-day free trial" src="https://img.shields.io/badge/6%2C99%20%E2%82%AC%20once-7--day%20free%20trial-f2b33d?style=flat-square&labelColor=1a1d2b">
   <img alt="Latest version" src="https://img.shields.io/github/v/release/mekai-games/pingster?style=flat-square&labelColor=1a1d2b&color=2fd39a&label=version">
   <img alt="No account, no ads, no tracking" src="https://img.shields.io/badge/no%20account%20%C2%B7%20no%20ads%20%C2%B7%20no%20tracking-f2b33d?style=flat-square&labelColor=1a1d2b">
@@ -26,7 +28,7 @@
 
 ## A small app, not a game
 
-Pingster sits at the bottom of your screen and walks along the Dock while you work. Click it, drag it, throw
+Pingster sits at the bottom of your screen and walks along the Dock (or the taskbar) while you work. Click it, drag it, throw
 it, pat it. It is there to help you with the day, and it needs a bit of help from you too.
 
 <table>
@@ -68,10 +70,12 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 
 | | |
 |---|---|
-| **Mac** | [Download the free trial](https://github.com/mekai-games/pingster/releases/latest/download/Pingster.dmg): everything works for 7 days. Then [get your license](https://mekaigames.com/pingster#buy) for 6,99 €, once. |
-| **Needs** | macOS 11 or later, Apple silicon or Intel. |
+| **Mac** | [Free trial for Mac](https://github.com/mekai-games/pingster/releases/latest/download/Pingster.dmg) · macOS 11 or later, Apple silicon or Intel |
+| **Windows** | [Free trial for Windows](https://github.com/mekai-games/pingster/releases/latest/download/Pingster-Setup.exe) · Windows 10 or 11, 64-bit |
+| **License** | Everything works for 7 days. Then [get your license](https://mekaigames.com/pingster#buy) for 6,99 €, once. One key, up to 3 computers. |
 
-Open the `.dmg`, drag Pingster into Applications, open it. It lives in the menu bar: no Dock icon, no window in your way.
+On a Mac, open the `.dmg` and drag Pingster into Applications. On Windows, run the setup. Pingster lives in the menu bar
+or in the tray next to the clock: no window in your way.
 Every version is in [Releases](../../releases).
 
 ## Privacy
@@ -85,7 +89,7 @@ Read the [privacy policy](https://mekaigames.com/pingster/privacy).
 <summary><b>How much is it?</b></summary>
 <br>
 6,99 €, one payment, with free updates. Try everything free for 7 days first. All 22 crew members are included:
-Alien, Pilot and Medic from day one, the others join you as you level up. One license works on up to 3 Macs.
+Alien, Pilot and Medic from day one, the others join you as you level up. One license works on up to 3 computers.
 </details>
 
 <details>
