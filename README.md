@@ -47,8 +47,29 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 | **Healthy breaks** | Drink water, check your posture, rest your eyes, stand up. You choose how often. |
 | **Reminders** | "Call the dentist at 15:00", "Vitamins every day at 9". Once, every day, on weekdays or every week. |
 | **To-dos** | With a due time if you like. Late ones turn into glitches. |
-
 | **Today's orders** | Three small things a day, for bonus XP. Missing a day costs nothing. |
+
+### Guard
+
+| | |
+|---|---|
+| **Check before you trust** | Paste a link, a message or an IBAN. It spots fake banks, couriers and shops, brand-new websites, "Hi mum, this is my new number", gift-card requests and wrong IBANs. Or right-click your crew member: "Check copied text". |
+| **Computer check-up** | Backup on or off, free disk space, battery health. Once a week it tells you if something needs a look. |
+| **Alerts** | The internet drops (and comes back), a Wi-Fi with no password. During calls it steps aside and stays quiet. |
+| **Passwords** | A strong one that is easy to type, and a check whether yours appeared in stolen data, without ever sending it. |
+
+### Files
+
+Drop files on your crew member (or on its window) and only what fits shows up. New files are saved next to the
+originals, never over them.
+
+| | |
+|---|---|
+| **Photos** | Make them smaller for email, HEIC to JPG or PNG, remove where and when they were taken, put them in one PDF, copy the text in a picture. |
+| **PDFs** | Join, split into pages, sign with your own signature. |
+| **Many files** | Rename them all at once (and undo). |
+| **Tidy up** | Old installers and archives in Downloads go to the Trash; find the biggest files. |
+| **Clipboard history** | The last 20 texts you copied, in memory only. Off unless you turn it on. |
 
 ### Out of your way
 
@@ -97,8 +118,8 @@ Every version is in [Releases](../../releases).
 
 ## Privacy
 
-Your crew member and your tasks stay on your computer. No account, no ads, no tracking: only your license key is
-checked with Lemon Squeezy, our reseller. Read the [privacy policy](https://mekaigames.com/pinglets/privacy) and the
+Your crew member, your tasks and your files stay on your computer. No account, no ads, no tracking: your license key is
+checked with Lemon Squeezy, our reseller, and the link and password checks reach the internet only when you use them. Read the [privacy policy](https://mekaigames.com/pinglets/privacy) and the
 [terms](https://mekaigames.com/pinglets/terms).
 
 ## FAQ
