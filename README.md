@@ -71,17 +71,19 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 | | |
 |---|---|
 | **Mac** | [Free trial for Mac](https://github.com/mekai-games/pinglets/releases/latest/download/Pinglets.dmg) · macOS 11 or later, Apple silicon or Intel |
-| **Windows** | [Free trial for Windows](https://github.com/mekai-games/pinglets/releases/latest/download/Pinglets-Setup.exe) · Windows 10 or 11, 64-bit |
-| **License** | Everything works for 7 days. Then [get your license](https://mekaigames.com/pinglets#buy) for 6,99 €, once. One key, up to 3 computers. |
+| **Windows (beta)** | [Free trial for Windows](https://github.com/mekai-games/pinglets/releases/latest/download/Pinglets-Setup.exe) · Windows 10 or 11, 64-bit |
+| **License** | Everything works for 7 days. Then [get your license](https://mekaigames.com/pinglets#buy) for 6,99 €, once. One key, up to 3 computers. Refunds within 14 days. |
 
-On a Mac, open the `.dmg` and drag Pinglets into Applications. On Windows, run the setup. Pinglets lives in the menu bar
-or in the tray next to the clock: no window in your way.
+On a Mac, open the `.dmg` and drag Pinglets into Applications. On Windows, run the setup; if Windows says it protected
+your PC, click "More info", then "Run anyway" (the Windows version is new). Pinglets lives in the menu bar or in the tray
+next to the clock: no window in your way, and it tells you when a new version is out.
 Every version is in [Releases](../../releases).
 
 ## Privacy
 
-Everything stays on your computer. No account, no ads, no tracking, nothing sent anywhere.
-Read the [privacy policy](https://mekaigames.com/pinglets/privacy).
+Your crew member and your tasks stay on your computer. No account, no ads, no tracking: only your license key is
+checked with Lemon Squeezy, our reseller. Read the [privacy policy](https://mekaigames.com/pinglets/privacy) and the
+[terms](https://mekaigames.com/pinglets/terms).
 
 ## FAQ
 
@@ -95,8 +97,8 @@ Alien, Pilot and Medic from day one, the others join you as you level up. One li
 <details>
 <summary><b>Will it get in my way?</b></summary>
 <br>
-No. Clicks go through everything except the crew member itself, and you can hide it from the menu bar at
-any time.
+No. Clicks go through everything except the crew member itself, and you can hide it at any time: right-click it,
+or use the menu bar on a Mac and the tray on Windows.
 </details>
 
 <details>
