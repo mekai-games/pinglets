@@ -12,8 +12,8 @@
 
 <p align="center">
   <b>A tiny pixel crew member that lives on your Dock or taskbar.</b><br>
-  It flies on missions while you focus, plays with you right on your desktop and learns your habits.<br>
-  It reminds you to take breaks, keeps your to-dos and fixes small annoying things. Give it a snack now and then.
+  It flies on missions while you focus, plays with you right on your desktop and builds its own little lab.<br>
+  It reminds you to take breaks, keeps your to-dos and tidies your desktop. Give it a snack now and then.
 </p>
 
 <p align="center">
@@ -38,6 +38,17 @@ it, pat it, play with it. It is there to help you with the day, and it needs a b
     <td align="center" width="33%"><img src="assets/sleep.gif" alt="A crew member asleep" width="100%"><br><b>It rests too</b><br>Quiet at night, quiet while you focus. It saves its questions for later.</td>
   </tr>
 </table>
+
+### It builds its own lab
+
+<p align="center">
+  <img src="assets/lab.gif" alt="A crew member hammering the pieces of its pixel lab together, then sleeping at its door" width="100%">
+</p>
+
+Turn on building mode and your crew member starts a lab of its own in the corner above the Dock: floor, walls, a door
+with a porthole, the roof, a lamp, crates. It finds the parts on missions, while you look after it and while you work,
+then walks over and hammers each piece into place. A lab takes two or three weeks, and once the roof is on, your crew
+member sleeps there at night. Off until you switch it on in Pet › Lab.
 
 ### Useful tasks
 
@@ -82,6 +93,8 @@ originals, never over them.
 | **Photos** | Make them smaller for email, HEIC to JPG or PNG, remove where and when they were taken, put them in one PDF, copy the text in a picture. |
 | **PDFs** | Join, split into pages, sign with your own signature. |
 | **Many files** | Rename them all at once (and undo). |
+| **Tidy the desktop** | Loose files go into folders by type: Screenshots, Images, PDFs, Documents, Archives, Installers, Video and music. You see where everything goes first, and Undo puts it all back. Folders, apps and shortcuts stay where they are. |
+| **Line up by name** | The desktop icons in a grid, from A to Z (on a Mac the Finder does it, with your permission). |
 | **Tidy up** | Old installers and archives in Downloads go to the Trash; find the biggest files. |
 | **Clipboard history** | The last 20 texts you copied, in memory only. Off unless you turn it on. |
 
@@ -89,6 +102,7 @@ originals, never over them.
 
 | | |
 |---|---|
+| **Your choice** | Needs, chatter, learning your habits, missions and building mode each have a switch. Turn off what you don't want; the rest keeps working. |
 | **Quiet mode** | Silence for an hour or until tomorrow. |
 | **Away from the computer?** | It notices, waits, and counts it as a break. |
 | **Full screen** | It steps aside for full-screen apps, games and presentations, and can stay out of screen sharing. |
@@ -105,7 +119,7 @@ originals, never over them.
 | **Countdown** | Days left to the holidays, a deadline, a birthday. It tells you every morning. |
 
 <p align="center">
-  <img src="assets/panel.png" alt="The Pinglets pop-up: six places, missions to four destinations, games on the desktop, tools in one place" width="100%">
+  <img src="assets/panel.png" alt="The Pinglets pop-up: six places, missions to four destinations, games on the desktop, the lab it builds, a tidy desktop" width="100%">
 </p>
 
 <p align="center">
@@ -123,7 +137,7 @@ Italian.
 |---|---|
 | **Mac** | [Free trial for Mac](https://github.com/mekai-games/pinglets/releases/latest/download/Pinglets.dmg) · macOS 11 or later, Apple silicon or Intel |
 | **Windows (beta)** | [Free trial for Windows](https://github.com/mekai-games/pinglets/releases/latest/download/Pinglets-Setup.exe) · Windows 10 or 11, 64-bit |
-| **License** | Everything works for 7 days. Then your crew member stays (its care, breaks, to-dos, reminders and the ball keep working), and [a license](https://mekaigames.com/pinglets#buy) for 6,99 €, once, brings back missions, games, tools and the whole crew. One key, up to 3 computers. |
+| **License** | Everything works for 7 days. Then your crew member stays (its care, breaks, to-dos, reminders and the ball keep working), and [a license](https://mekaigames.com/pinglets#buy) for 6,99 €, once, brings back missions, games, the lab, tools and the whole crew. One key, up to 3 computers. |
 
 On a Mac, open the `.dmg` and drag Pinglets into Applications. On Windows, run the setup; if Windows says it protected
 your PC, click "More info", then "Run anyway" (the Windows version is new). Pinglets lives in the menu bar or in the tray
@@ -163,7 +177,7 @@ way and glitches show up for the tasks you skip. It never dies either way.
 <summary><b>What happens after the free week?</b></summary>
 <br>
 Your crew member stays: it keeps walking on your Dock, you can look after it and play ball, and breaks, to-dos and
-reminders keep working. Missions, levels, the other games, the tools and the rest of the crew come back with a license.
+reminders keep working. Missions, levels, the lab, the other games, the tools and the rest of the crew come back with a license.
 </details>
 
 <details>
