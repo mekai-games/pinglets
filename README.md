@@ -12,8 +12,8 @@
 
 <p align="center">
   <b>A tiny pixel crew member that lives on your Dock or taskbar.</b><br>
-  It reminds you to take breaks, keeps your to-dos and fixes small annoying things.<br>
-  Give it a snack now and then.
+  It flies on missions while you focus, plays with you right on your desktop and learns your habits.<br>
+  It reminds you to take breaks, keeps your to-dos and fixes small annoying things. Give it a snack now and then.
 </p>
 
 <p align="center">
@@ -26,15 +26,15 @@
 
 ---
 
-## A small app, not a game
+## A small app, and a little game
 
 Pinglets sits at the bottom of your screen and walks along the Dock (or the taskbar) while you work. Click it, drag it, throw
-it, pat it. It is there to help you with the day, and it needs a bit of help from you too.
+it, pat it, play with it. It is there to help you with the day, and it needs a bit of help from you too.
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/care.gif" alt="A crew member cheering with hearts" width="100%"><br><b>It needs you</b><br>Food, mood, energy and a wash now and then. Leave it alone too long and it gets sad. It never dies.</td>
-    <td align="center" width="33%"><img src="assets/fight.gif" alt="A crew member fighting a purple glitch" width="100%"><br><b>It keeps you on track</b><br>Skip a break or forget a reminder and a glitch walks in. Do the task and the glitch is gone.</td>
+    <td align="center" width="33%"><img src="assets/care.gif" alt="A crew member cheering with hearts" width="100%"><br><b>It needs you</b><br>Food, mood, energy and a wash now and then. Snacks fall from the sky, pats happen on your desktop. It never dies, and it never makes you feel guilty.</td>
+    <td align="center" width="33%"><img src="assets/fight.gif" alt="A crew member fighting a purple glitch" width="100%"><br><b>Strict captain, if you like</b><br>Turn it on and a skipped break or a forgotten reminder brings a glitch. Do the task and the glitch is gone.</td>
     <td align="center" width="33%"><img src="assets/sleep.gif" alt="A crew member asleep" width="100%"><br><b>It rests too</b><br>Quiet at night, quiet while you focus. It saves its questions for later.</td>
   </tr>
 </table>
@@ -43,22 +43,36 @@ it, pat it. It is there to help you with the day, and it needs a bit of help fro
 
 | | |
 |---|---|
-| **Focus missions** | 25 minutes of focus, a short break, repeat. Meanwhile your crew member goes on a mission and comes back with a souvenir: 32 to collect, something new every time. |
+| **Focus missions** | The length picks the place: the Moon (15 min), Mars (25), the asteroid belt (50), deep space (90), or any length. Your crew member flies there and comes back with a souvenir: 44 to collect, each place with its own. Every fourth mission of the day, a longer break; the countdown sits in the menu bar. |
 | **Healthy breaks** | Drink water, check your posture, rest your eyes, stand up. You choose how often. |
 | **Reminders** | "Call the dentist at 15:00", "Vitamins every day at 9". Once, every day, on weekdays or every week. |
-| **To-dos** | With a due time if you like. Late ones turn into glitches. |
+| **To-dos** | With a due time if you like. With Strict captain on, late ones turn into glitches. |
 | **Today's orders** | Three small things a day, for bonus XP. Missing a day costs nothing. |
 
-### Guard
+### Play together
+
+The games are played right on your desktop, next to your crew member, not in a window.
+
+| | |
+|---|---|
+| **Ball** | Throw it: your crew member runs after it and kicks it. |
+| **Rock, paper, scissors** | First to three, in a bubble over its head. It learns your favourite moves. |
+| **Catch the stars** | 30 seconds of falling stars. Move the mouse and it runs to catch them. |
+| **Memory** | It lights a row of pads, you repeat it, one more each round. |
+| **It learns your habits** | When you start and stop, your best hour for focus, when it gets its snack, and its character grows from how you treat it. All on your computer, with a button to make it forget. |
+
+### Tools
+
+Everything useful in one place, out of the pet's way.
 
 | | |
 |---|---|
 | **Check before you trust** | Paste a link, a message or an IBAN. It spots fake banks, couriers and shops, brand-new websites, "Hi mum, this is my new number", gift-card requests and wrong IBANs. Or right-click your crew member: "Check copied text". |
-| **Computer check-up** | Backup on or off, free disk space, battery health. Once a week it tells you if something needs a look. |
+| **Computer check-up** | Firewall, disk encryption, automatic updates, screen lock, app check or antivirus, password at start-up, plus backup, free disk space and battery health. It reads them and changes nothing; "Turn on" opens the right system setting. |
 | **Alerts** | The internet drops (and comes back), a Wi-Fi with no password. During calls it steps aside and stays quiet. |
 | **Passwords** | A strong one that is easy to type, and a check whether yours appeared in stolen data, without ever sending it. |
 
-### Files
+#### Files
 
 Drop files on your crew member (or on its window) and only what fits shows up. New files are saved next to the
 originals, never over them.
@@ -91,7 +105,7 @@ originals, never over them.
 | **Countdown** | Days left to the holidays, a deadline, a birthday. It tells you every morning. |
 
 <p align="center">
-  <img src="assets/panel.png" alt="The Pinglets panel: pet, tasks, helpers and crew" width="100%">
+  <img src="assets/panel.png" alt="The Pinglets pop-up: six places, missions to four destinations, games on the desktop, tools in one place" width="100%">
 </p>
 
 <p align="center">
@@ -109,7 +123,7 @@ Italian.
 |---|---|
 | **Mac** | [Free trial for Mac](https://github.com/mekai-games/pinglets/releases/latest/download/Pinglets.dmg) · macOS 11 or later, Apple silicon or Intel |
 | **Windows (beta)** | [Free trial for Windows](https://github.com/mekai-games/pinglets/releases/latest/download/Pinglets-Setup.exe) · Windows 10 or 11, 64-bit |
-| **License** | Everything works for 7 days. Then [get your license](https://mekaigames.com/pinglets#buy) for 6,99 €, once. One key, up to 3 computers. |
+| **License** | Everything works for 7 days. Then your crew member stays (its care, breaks, to-dos, reminders and the ball keep working), and [a license](https://mekaigames.com/pinglets#buy) for 6,99 €, once, brings back missions, games, tools and the whole crew. One key, up to 3 computers. |
 
 On a Mac, open the `.dmg` and drag Pinglets into Applications. On Windows, run the setup; if Windows says it protected
 your PC, click "More info", then "Run anyway" (the Windows version is new). Pinglets lives in the menu bar or in the tray
@@ -118,7 +132,7 @@ Every version is in [Releases](../../releases).
 
 ## Privacy
 
-Your crew member, your tasks and your files stay on your computer. No account, no ads, no tracking: your license key is
+Your crew member, your tasks, your files and what it learns about your habits stay on your computer. No account, no ads, no tracking: your license key is
 checked with Lemon Squeezy, our reseller, and the link and password checks reach the internet only when you use them. Read the [privacy policy](https://mekaigames.com/pinglets/privacy) and the
 [terms](https://mekaigames.com/pinglets/terms).
 
@@ -141,8 +155,15 @@ or use the menu bar on a Mac and the tray on Windows.
 <details>
 <summary><b>What happens if I ignore it?</b></summary>
 <br>
-It gets hungry, sleepy and a bit sad, and glitches show up for the tasks you skip. It never dies: a snack, a
-pat and a done task bring it back.
+It gets hungry and sleepy, but never below "fine". Turn on Strict captain for the real thing: needs drop all the
+way and glitches show up for the tasks you skip. It never dies either way.
+</details>
+
+<details>
+<summary><b>What happens after the free week?</b></summary>
+<br>
+Your crew member stays: it keeps walking on your Dock, you can look after it and play ball, and breaks, to-dos and
+reminders keep working. Missions, levels, the other games, the tools and the rest of the crew come back with a license.
 </details>
 
 <details>
